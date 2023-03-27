@@ -1,0 +1,10 @@
+.form-input {
+    color: black;
+}
+input[type="text"],
+input[type="search"],
+input[type="email"],
+input[type="password"],
+textarea {
+    color: black;
+}
